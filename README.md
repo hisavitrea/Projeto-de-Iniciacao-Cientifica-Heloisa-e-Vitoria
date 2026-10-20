@@ -22,6 +22,6 @@ Para rodar o script de mineração, instale as dependências e execute o arquivo
 ```bash
 pip install pandas mlxtend
 python mineracao_apriori_setembro.py
-
+```
 ## Se utilizar este material, por favor cite:
 ORTIZ, H. S.; LIMA, V. G. M. Associação Cruzada e Mineração de Dados: Padrões entre o CSC 2.0 e o SDSS DR15. 2026. Trabalho de Iniciação Científica (IV EIC) - UNIFACEAR, 2026.
